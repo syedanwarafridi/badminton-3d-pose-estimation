@@ -1,10 +1,6 @@
-# Video files
-*.mp4
+# Video files (add specific exclusions if needed)
 *.avi
 *.mov
-
-# Generated visualization output
-visualizations/demo.html
 
 # Python cache
 __pycache__/
